@@ -1,0 +1,13 @@
+.articles_container{
+    width: 100vw;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+/* align-items: center; */  
+ /* border: 2px  solid rgb(15, 189, 29);  */
+}
+.articles{
+    /* border: 2px solid rgb(0, 9, 128); */
+    width: 80vw;
+}
